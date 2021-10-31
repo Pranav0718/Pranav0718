@@ -1,5 +1,6 @@
 <h1 align="center">こんにちは 👋, I'm Pranav Walgude</h1>
 <h3 align="center">A passionate computer science student trying to figure out stuff!!!!</h3>
+<img align="right" alt="coding" width ="300" src="https://qphs.fs.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148"
 
 <p align="left"> <a href="https://twitter.com/pranav_walgude" target="blank"><img src="https://img.shields.io/twitter/follow/pranav_walgude?logo=twitter&style=for-the-badge" alt="pranav_walgude" /></a> </p>
 
